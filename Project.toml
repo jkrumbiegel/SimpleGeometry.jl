@@ -1,0 +1,8 @@
+name = "SimpleGeometry"
+uuid = "4e527c7b-333c-425a-9cdc-e36b04f8fddb"
+authors = ["Julius Krumbiegel "]
+version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
